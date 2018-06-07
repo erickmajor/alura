@@ -1,3 +1,6 @@
 [submodule "gruntjs"]
 	path = gruntjs
 	url = git@github.com:erickmajor/alura-gruntjs.git
+[submodule "gulp"]
+	path = gulp
+	url = git@github.com:erickmajor/alura-gulp.git
